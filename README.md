@@ -17,3 +17,8 @@ El objetivo de esta placa es poder programar y acceder a todos los pines del esp
 ## PCB
 ![](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/PCB.png "PCB")
 [Descargar PDF](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/PCB.png)
+
+## Pr&oacute;xima versi&oacute;n
+* Conectar con RTS y DTR del CP2102
+* Colocar un diodo en GND del regulador para evitar que ingresen 5v por ese conector.
+* Cuando se ingresa en modo programaci&oacute;n, desconectar los pines expuestos GPIO 0-3 hasta el siguiente reset.
