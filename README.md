@@ -16,7 +16,8 @@ El objetivo de esta placa es poder programar y acceder a todos los pines del esp
 
 ## PCB
 ![](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/PCB.png "PCB")
-[Descargar PDF](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/PCB.png)
+
+[Descargar PDF para imprimir](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/PCB.pdf)
 
 ## Pr&oacute;xima versi&oacute;n
 * Conectar con RTS y DTR del CP2102
