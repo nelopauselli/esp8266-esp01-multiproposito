@@ -11,6 +11,9 @@ El objetivo de esta placa es poder programar y acceder a todos los pines del esp
 
 3. Del adaptador USB-TTL, en mi caso uno basado en el chip CP2102, se pueden tomar los 5v y pasarlos por el regulador de tensi&oacute;n AMS1117 del circuito para obtener 3.3v. No se debe usar los 3.3v del adaptador USB-TTL porque no tienen suficiente corriente para alimentar al esp8266 y puede derivar en coportamientos inestables.
 
+## Pines:
+El circuito expone los 8 pines de la placa esp8266-esp01, adem&aacute;s expone un pin con los 5v bajo el nombre de Vin (acompa&ntilde;ado de un pin GND) y un puente (para unir con un jumper) para el CH_PD con el nombre J2.
+
 ## Esquem&aacute;tico
 ![](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/Esquematico.png "Esquem&aacute;tico")
 
