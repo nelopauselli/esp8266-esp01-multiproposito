@@ -8,5 +8,5 @@ El objetivo de esta placa es poder programar y acceder a todos los pines del esp
 ![](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/Esquematico.png "Esquem&aacute;tico")
 
 ## PCB
-![](/raw/master/PCB.png "PCB")
-[Descargar PDF](../blob/master/PCB.png)
+![](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/PCB.png "PCB")
+[Descargar PDF](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/PCB.png)
