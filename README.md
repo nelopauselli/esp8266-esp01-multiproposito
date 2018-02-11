@@ -2,9 +2,9 @@
 Placa multipropósito para desarrollar y prototipar con el esp8266 esp01
 
 # Fotos
-![](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/img/foto1.png)
-![](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/img/foto2.png)
-![](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/img/foto3.png)
+![](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/img/foto1.jpg)
+![](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/img/foto2.jpg)
+![](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/img/foto3.jpg)
 
 ## Objetivo
 El objetivo de esta placa es poder programar y acceder a todos los pines del esp8266 en su versi&oacute;n esp01.
