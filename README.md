@@ -1,13 +1,12 @@
 # esp8266-esp01-multiproposito
-Placa multipropósito para desarrollar y prototipar con el esp8266 esp01
+Placa multipropósito para desarrollar y prototipar con el esp8266 esp01.
+
+El objetivo de esta placa es poder programar y acceder a todos los pines del esp8266 en su versi&oacute;n esp01.
 
 # Fotos
 ![](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/img/foto1.jpg)
 ![](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/img/foto2.jpg)
 ![](https://github.com/nelopauselli/esp8266-esp01-multiproposito/raw/master/img/foto3.jpg)
-
-## Objetivo
-El objetivo de esta placa es poder programar y acceder a todos los pines del esp8266 en su versi&oacute;n esp01.
 
 ## Notas:
 1. Para entrar en modo programaci&oacute;n deb&eacute;s presionar el bot&oacute;n RESET y sin soltarlo presionar el bot&oacute;n FLASH. Luego soltar el bot&oacute;n RESET y posteriormente el bot&oacute;n FLASH. Con esto se logra resetear el esp8266 con el GPIO0 en GND, lo que hace que entre en modo programaci&oacute;n.
